@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Void 👋
 
-<!--
-**iVoid1/iVoid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer with about 1 to 2 years of experience.  
+Focused on building projects around AI assistants and practical coding solutions.
 
-Here are some ideas to get you started:
+- 💻 Experienced in writing clean and efficient code.  
+- 🔧 Working on integrating AI models into usable applications.  
+- 📚 Always learning and improving through hands-on practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my work: [GitHub Repository](https://github.com/iVoid1?tab=repositories)
+
+---
+## Featured Projects ⚙️
+- **[Coreon](https://github.com/iVoid1/Coreon)** 🧠 — AI Assistant (ongoing)
+- More projects in my repositories 🔗
+
+---
+## Let's Connect 📲
+- **GitHub:** [iVoid1](https://github.com/iVoid1)
+- **Discord:** [ivoid1](https://discord.com/users/772789604096671744)
+---
+🐧**FYI**: I use Arch btw!
